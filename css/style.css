@@ -10,7 +10,6 @@
 
 img{
 	opacity: 1.0; 
-	z-index: 2;
 }
 
 .section h1 {
@@ -90,7 +89,10 @@ z-index: -2;
 	font-family: "Oswald";
 	border-radius: 25px;
 	opacity: 1.0;
-	z-index: 2;!important
+}
+
+card-body{
+	z-index:1;
 }
 
 card-img-top {
@@ -99,7 +101,6 @@ card-img-top {
     object-fit: cover;
 	top:30;
 	opacity: 1.0;
-	z-index: 2; !important
 }
 
 .carousel-inner img {
@@ -146,10 +147,4 @@ p{
 #itemTitle{
 	padding: 20px;
 	margin-top: 20px;
-}
-
-.card-transparent{
-	opacity: 1.0;
-	z-index: 1;
-	
 }
