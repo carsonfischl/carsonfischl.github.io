@@ -160,3 +160,7 @@ ul{
 	opacity: 1.0;
 	z-index:1;
 }
+
+a{
+	z-index:1;
+}
