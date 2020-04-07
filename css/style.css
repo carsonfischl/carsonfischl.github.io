@@ -97,7 +97,7 @@ card-img-top {
     object-fit: cover;
 	top:30;
 	opacity: 1.0;
-	z-index: 2;
+	z-index: 2; !important
 }
 
 .carousel-inner img {
