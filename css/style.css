@@ -6,7 +6,6 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  z-index: -1;
 }
 
 img{
@@ -145,4 +144,9 @@ p{
 #itemTitle{
 	padding: 20px;
 	margin-top: 20px;
+}
+
+.card-transparent{
+	opacity: 1.0;
+	z-index: 1;
 }
