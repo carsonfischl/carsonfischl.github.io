@@ -155,3 +155,7 @@ div{
 .col-sm-3{
 	z-index: 1;
 }
+
+li{
+	opacity: 1.0;
+}
