@@ -97,7 +97,7 @@ card-img-top {
     height: 15vw;
     object-fit: cover;
 	top:30;
-	opacity: 1.0;
+	opacity: 1.0; !important
 }
 
 .carousel-inner img {
@@ -148,5 +148,9 @@ p{
 
 .card-transparent{
 	opacity: 1.0;
+	z-index: 1;
+}
+
+btn{
 	z-index: 1;
 }
