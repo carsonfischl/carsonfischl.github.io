@@ -9,7 +9,7 @@
 }
 
 img{
-	opacity: 1.0;
+	opacity: 1.0; 
 }
 
 .section h1 {
@@ -97,7 +97,7 @@ card-img-top {
     height: 15vw;
     object-fit: cover;
 	top:30;
-	opacity: 1.0; !important
+	opacity: 1.0; 
 }
 
 .carousel-inner img {
