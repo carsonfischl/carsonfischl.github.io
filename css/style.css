@@ -85,6 +85,7 @@ h3{
 	font-family: "Oswald";
 	border-radius: 25px;
 	opacity: 1.0;
+	z-index: 1;
 }
 
 .card-img-top {
@@ -93,6 +94,7 @@ h3{
     object-fit: cover;
 	top:30;
 	opacity: 1.0;
+	z-index:1;
 }
 
 .carousel-inner img {
