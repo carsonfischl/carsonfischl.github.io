@@ -1,0 +1,49 @@
+body{
+	font-family: "Raleway";
+	margin-top: 0px;
+}
+
+.section h1 {
+  font-size: 8rem;
+  font-family: "Raleway";
+  padding: 20px;
+  margin: 15px;
+}
+
+.section h3 {
+  font-size: 6rem;
+  font-family: "Raleway";
+  padding: 20px;
+  margin: 15px;
+
+}
+
+.container{
+	font-family: "Raleway";
+	margin: 0 auto;
+	margin-top: 20px;
+	align: center;
+}
+
+img{
+	border-radius: 50%;
+	object-fit: cover;
+	width: auto;
+	height: auto;
+	max-width:450px;
+	max-height:450px;
+}
+
+btn-primary{
+	font-family: "Raleway";
+	margin: 0 auto;
+	display: block;
+}
+
+body{
+	margin: 100px;
+}
+
+.fb-iframe-widget{
+	margin:auto;
+}
