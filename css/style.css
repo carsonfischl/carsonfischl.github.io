@@ -1,11 +1,3 @@
-html{
-	background-image: linear-gradient(to bottom right, blue, yellow);
-}
-
-body{
-	background-image: linear-gradient(to bottom right, blue, yellow);
-}
-
 .section {
   position: relative;
   width: 100%;
@@ -14,10 +6,7 @@ body{
   align-items: center;
   justify-content: center;
   overflow: hidden;
-}
-
-img{
-	opacity: 1.0; 
+  z-index: -1;
 }
 
 .section h1 {
@@ -27,6 +16,7 @@ img{
   padding: 20px;
   margin: 15px;
   z-index: 1;
+  opacity: 0.7;
 }
 
 .section h2 {
@@ -35,6 +25,7 @@ img{
   font-family: "Oswald";
   padding: 20px;
   margin: 15px;
+  opacity: 0.7;
   z-index: 1;
 }
 
@@ -42,6 +33,7 @@ img{
   text-align: center;
   font-size: 8rem;
   font-family: "Oswald";
+  opacity: 0.7;
   position: absolute;
   height: 100vh;
   z-index: 1;
@@ -51,6 +43,7 @@ h2{
   text-align: center;
   font-size: 3rem;
   font-family: "Oswald";
+  opacity: 0.7;
   position: relative;
   z-index: 1;
   padding-bottom: 20px;
@@ -61,11 +54,11 @@ h3{
   text-align: center;
   font-size: 3rem;
   font-family: "Oswald";
+  opacity: 0.7;
   position: relative;
   z-index: 1;
   padding-bottom: 20px;
   margin-left: 30px;
-	background-image: linear-gradient(to bottom right, blue, yellow);
 }
 
 .video-container {
@@ -75,7 +68,6 @@ h3{
   min-width: 100%;
   justify-content: center;
   width: 100%;
-z-index: -2;
 }
 
 .color-overlay {
@@ -100,11 +92,7 @@ z-index: -2;
 	opacity: 1.0;
 }
 
-card-body{
-	z-index:1;
-}
-
-card-img-top {
+.card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: cover;
@@ -115,45 +103,4 @@ card-img-top {
 .carousel-inner img {
   margin: 0 auto;
   height: 100%;
-}
-
-.item{
-	vertical-align:auto;
-	margin: 0 auto;
-	position: relative;
-}
-
-.carousel{
-	height:500px;
-}
-
-#vidBackground{
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-}
-
-p{
-  text-align: center;
-  font-size: 1rem;
-  font-family: "Oswald";
-  position: relative;
-  z-index: 1;
-  color: black;
-  padding-top:50px;
-}
-
-.list-group-item {
-	margin-right: 100px;
-	margin-left: 100px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	font-family:  "Oswald", bold;
-}
-
-#itemTitle{
-	padding: 20px;
-	margin-top: 20px;
 }
