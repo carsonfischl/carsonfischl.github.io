@@ -6,7 +6,6 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  z-index: -1;
 }
 
 .section h1 {
