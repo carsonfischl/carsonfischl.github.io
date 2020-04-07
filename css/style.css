@@ -1,3 +1,7 @@
+html{
+	background-image: linear-gradient(to bottom right, blue, yellow);
+}
+
 .section {
   position: relative;
   width: 100%;
