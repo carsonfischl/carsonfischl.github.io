@@ -185,6 +185,13 @@ nav {
 .navbar {
   text-align: center;
   background-color: transparent;
+  background: transparent;
+  text-align: center;
+  font-size: 1rem;
+  font-family: "Oswald";
+  opacity: 0.7;
+  position: static;
+  color: black;
 }
 
 .navbar-inner {
