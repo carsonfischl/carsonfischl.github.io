@@ -229,3 +229,11 @@ nav {
 #socButton {
   color: black;
 }
+
+#cornerTitle {
+  color: black;
+}
+
+body > nav {
+  justify-content: center;
+}
