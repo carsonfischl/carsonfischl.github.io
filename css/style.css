@@ -199,3 +199,12 @@ nav {
   color: black;
   margin: auto;
 }
+
+.nav-link {
+  color: black;
+}
+
+.navbar-nav {
+  align-items: center;
+  text-align: center;
+}
