@@ -179,7 +179,7 @@ a {
 
 nav {
   text-align: center;
-  justify-content: center;
+  justify-content: center !important;
   background-color: transparent;
   margin: auto;
 }
