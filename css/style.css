@@ -249,3 +249,7 @@ nav {
 body > nav {
   justify-content: center;
 }
+
+.nav a {
+  color: black;
+}
