@@ -204,7 +204,27 @@ nav {
   color: black;
 }
 
-.navbar-nav {
+.navbar-nav .nav-link {
   align-items: center;
   text-align: center;
+}
+
+#projButton {
+  color: black;
+}
+
+#hobButton {
+  color: black;
+}
+
+#resButton {
+  color: black;
+}
+
+#workButton {
+  color: black;
+}
+
+#socButton {
+  color: black;
 }
