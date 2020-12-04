@@ -212,26 +212,38 @@ nav {
 
 #projButton {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 #hobButton {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 #resButton {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 #workButton {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 #socButton {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 #cornerTitle {
   color: black;
+  font-family: "Oswald";
+  opacity: 0.7;
 }
 
 body > nav {
