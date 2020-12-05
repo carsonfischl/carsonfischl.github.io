@@ -214,36 +214,42 @@ nav {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 #hobButton {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 #resButton {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 #workButton {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 #socButton {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 #cornerTitle {
   color: black;
   font-family: "Oswald";
   opacity: 0.7;
+  align-self: center;
 }
 
 body > nav {
@@ -257,4 +263,9 @@ body > nav {
 #mainNav {
   justify-content: center !important;
   align-items: center !important;
+}
+
+.navbar-toggler {
+  color: black;
+  opacity: 0.7;
 }
