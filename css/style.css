@@ -263,26 +263,18 @@ body > nav {
   opacity: 0.7;
 }
 
-#bigTitle {
-  z-index: 2 !important;
-}
-
-#smallTitle {
-  z-index: 2 !important;
-}
-
 #Work {
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 #Social {
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 #Hobbies {
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 #Projects {
-  margin-top: 50px;
+  padding-top: 50px;
 }
