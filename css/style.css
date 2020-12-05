@@ -215,7 +215,6 @@ nav {
   font-family: "Oswald";
   opacity: 0.7;
   align-self: center;
-  scroll-behavior: smooth;
 }
 
 #hobButton {
@@ -223,7 +222,6 @@ nav {
   font-family: "Oswald";
   opacity: 0.7;
   align-self: center;
-  scroll-behavior: smooth;
 }
 
 #resButton {
@@ -238,7 +236,6 @@ nav {
   font-family: "Oswald";
   opacity: 0.7;
   align-self: center;
-  scroll-behavior: smooth;
 }
 
 #socButton {
@@ -246,7 +243,6 @@ nav {
   font-family: "Oswald";
   opacity: 0.7;
   align-self: center;
-  scroll-behavior: smooth;
 }
 
 body > nav {
@@ -303,4 +299,5 @@ body {
 
 body {
   overflow: hidden;
+  margin: 0 auto;
 }
