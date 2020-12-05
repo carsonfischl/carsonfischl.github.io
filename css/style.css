@@ -245,13 +245,6 @@ nav {
   align-self: center;
 }
 
-#cornerTitle {
-  color: black;
-  font-family: "Oswald";
-  opacity: 0.7;
-  align-self: center;
-}
-
 body > nav {
   justify-content: center;
 }
