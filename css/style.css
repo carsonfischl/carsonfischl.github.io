@@ -282,3 +282,7 @@ body > nav {
 html {
   scroll-behavior: smooth;
 }
+
+.sub-subtitle {
+  padding-top: 30px;
+}
