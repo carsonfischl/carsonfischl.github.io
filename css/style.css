@@ -278,3 +278,7 @@ body > nav {
 #Projects {
   padding-top: 50px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
