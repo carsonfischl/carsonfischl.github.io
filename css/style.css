@@ -174,7 +174,7 @@ ul {
 a {
   z-index: 1;
   opacity: 1;
-  color: red !important;
+  color: black;
 }
 
 nav {
@@ -311,4 +311,8 @@ body {
 
 #thanks {
   padding-top: 50px;
+}
+
+.link {
+  color: orangered;
 }
