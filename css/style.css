@@ -202,7 +202,7 @@ nav {
 }
 
 .nav-link {
-  color: black;
+  color: black !important;
 }
 
 .navbar-nav .nav-link {
@@ -250,7 +250,7 @@ body > nav {
 }
 
 .nav a {
-  color: black;
+  color: black !important;
 }
 
 #mainNav {
@@ -314,5 +314,5 @@ body {
 }
 
 .link {
-  color: orangered;
+  color: orangered !important;
 }
