@@ -316,3 +316,8 @@ body {
 .link {
   color: red !important;
 }
+
+#everything {
+  display: flex;
+  padding: 10px;
+}
