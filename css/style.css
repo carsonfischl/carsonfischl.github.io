@@ -322,4 +322,6 @@ body {
 #portugal{
   min-width: 132px;
   overflow-y: hidden;
+  align-self: center;
+  margin: auto;
 }
