@@ -320,9 +320,6 @@ body {
   color: red !important;
 }
 
-#portugal{
-  min-width: 132px;
-  overflow-y: hidden;
-  align-self: center;
-  margin: auto;
+.card-transparent{
+  display: contents;
 }
