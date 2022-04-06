@@ -318,3 +318,8 @@ body {
 .link {
   color: red !important;
 }
+
+#portugal{
+  min-width: 132px;
+  overflow-y: hidden;
+}
