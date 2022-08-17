@@ -323,3 +323,15 @@ body {
 .card-transparent{
   display: contents;
 }
+
+@media only screen and (max-width: 300px) {
+  #bigTitle {
+    display: flex;
+    font-size: small;
+  }
+
+  #smallTitle {
+    display: flex;
+    font-size: small;
+  }
+}
